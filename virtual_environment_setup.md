@@ -51,8 +51,15 @@ DO THIS EVERY TIME !!!!!!
 there is NO NEED to create the venv all over again, just run this command:
 
 ```
-source .venv/bin/activate
+source .venv/Scripts/activate 
 ```
 
+# IMPORTANT NOTE
 
-## yippee!
+if ur venv is properly set up u should see (.venv) in you command tagline 
+eg
+```
+(.venv) marke@Mar MINGW64 ~/Downloads/ComputerScience/DeepLearningForSkinLesions (main)
+```
+
+if it doesn't have it then that means DO NOT PIP INSTALL anything it's not working yet 
