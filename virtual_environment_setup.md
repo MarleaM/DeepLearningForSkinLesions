@@ -4,7 +4,7 @@ I just realized that we need our own python environment since we're not working 
 
 What is a virtual environment?
 
---> A venv is an isolated and self contained workspace that allows for project configs and dependencies to be isolated so that it doesn't interfere/clash with your system or orther projects. Basically the goal is kinda similar to Docker (i think) where it's like u want to be able to reproduce the exact packages, modules, etc. that you were using at the time of development with other people, other computers, etc. 
+--> According to google: a venv is an isolated and self contained workspace that allows for project configs and dependencies to be isolated so that it doesn't interfere/clash with your system or orther projects. Basically the goal is kinda similar to Docker (i think) where it's like u want to be able to reproduce the exact packages, modules, etc. that you were using at the time of development with other people, other computers, etc. 
 
 anyways TLDR venv = good
 
