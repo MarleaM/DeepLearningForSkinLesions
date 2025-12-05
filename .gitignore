@@ -1,1 +1,7 @@
 .venv
+shuffled_test_final_x.csv
+shuffled_test_final_y.csv
+shuffled_train_final_x.csv
+shuffled_train_final_y.csv
+shuffled_val_final_x.csv
+shuffled_val_final_y.csv
