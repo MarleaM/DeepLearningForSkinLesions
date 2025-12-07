@@ -5,3 +5,6 @@ shuffled_train_final_x.csv
 shuffled_train_final_y.csv
 shuffled_val_final_x.csv
 shuffled_val_final_y.csv
+X_test_pca.csv
+X_train_pca.csv
+X_val_pca.csv
