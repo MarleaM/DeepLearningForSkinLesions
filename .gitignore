@@ -8,3 +8,12 @@ shuffled_val_final_y.csv
 X_test_pca.csv
 X_train_pca.csv
 X_val_pca.csv
+shuffled_test_final_x_BALANCED.csv
+shuffled_test_final_y_BALANCED.csv
+shuffled_train_final_x_BALANCED.csv
+shuffled_train_final_y_BALANCED.csv
+shuffled_val_final_x_BALANCED.csv
+shuffled_val_final_y_BALANCED.csv
+/PCA_data
+/large_data
+/balanced_data
